@@ -1,0 +1,45 @@
+
+{
+  "applications": [
+    {
+      "id": 1,
+      "applicationName": "Air conditioner",
+      "image": "air.conditioner.horizontal"
+    },
+    {
+        "id": 2,
+        "applicationName": "Geyser",
+        "image": "air.purifier"
+    },
+    {
+        "id": 3,
+        "applicationName": "Lighting",
+        "image": "lightbulb.max"
+    },
+    {
+      "id": 4,
+      "applicationName": "Baking oven",
+      "image": "oven"
+    },
+    {
+        "id": 5,
+        "applicationName": "Interruptor switch",
+        "image": "switch.programmable.square"
+    },
+    {
+        "id": 6,
+        "applicationName": "SPD switch",
+        "image": "lightswitch.on.square"
+    },
+    {
+        "id": 7,
+        "applicationName": "Washing machine",
+        "image": "dryer"
+    },
+    {
+        "id": 8,
+        "applicationName": "Dishwasher",
+        "image": "dishwasher"
+    }
+  ]
+}
